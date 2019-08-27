@@ -1,4 +1,4 @@
-# 60daysofudacity
+#60daysofudacity
 60 Days Activities in Udacity community initiatives
 
 Day 1: [June 29, 2019]
