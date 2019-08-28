@@ -393,3 +393,10 @@ Day 60 [August 27, 2019]
 - Revisited Securing Federated and Encrypted Deep Learning Lessons
 - Explored this Data Analysis Tool: https://github.com/JacksonWuxs/DaPy
 - Conducted testing on my LightGBM models for Predicting Molecular Properties
+
+Day 61 [August 28, 2019]
+#60daysofudacity
+
+- Worked on my final models in Predicting Molecular Properties as today is the last submission date
+- Read these interesting tips in Google Colab: https://dev.to/kriyeng/8-tips-for-google-colab-notebooks-to-take-advantage-of-their-free-of-charge-12gb-ram-gpu-be4
+
