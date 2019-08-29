@@ -400,3 +400,7 @@ Day 61 [August 28, 2019]
 - Worked on my final models in Predicting Molecular Properties as today is the last submission date
 - Read these interesting tips in Google Colab: https://dev.to/kriyeng/8-tips-for-google-colab-notebooks-to-take-advantage-of-their-free-of-charge-12gb-ram-gpu-be4
 
+Day 62 [August 29, 2019]
+#60daysofudacity
+
+- Worked to improve my models in SIIM-ACR Pneumothorax Segmentation and APTOS 2019 Blindness Detection
